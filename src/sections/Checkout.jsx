@@ -8,7 +8,7 @@ export default function Checkout() {
         <Reveal style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap', gap: 16, marginBottom: 32 }}>
           <div style={{ fontFamily: "'Geist Mono',monospace", fontSize: 11, letterSpacing: '0.22em', color: '#6E6E6A' }}>10 / CHECKOUT</div>
           <div style={{ fontFamily: "'Geist Mono',monospace", fontSize: 11, letterSpacing: '0.16em', color: '#A7A6A1' }}>
-            ELITE / 3 MONTHS / $2,000
+            ELITE / 3 MONTHS / $2,497
           </div>
         </Reveal>
 
