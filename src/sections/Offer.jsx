@@ -36,7 +36,7 @@ export default function Offer() {
                   borderTop: '1px solid rgba(255,255,255,0.08)',
                 }}
               >
-                <span style={{ fontSize: 'clamp(42px,9vw,56px)', letterSpacing: '-0.03em', lineHeight: 1 }}>$2,000</span>
+                <span style={{ fontSize: 'clamp(42px,9vw,56px)', letterSpacing: '-0.03em', lineHeight: 1 }}>$2,497</span>
                 <span style={{ fontFamily: "'Geist Mono',monospace", fontSize: 11, letterSpacing: '0.18em', color: '#A7A6A1' }}>
                   3 MONTHS
                   <br />
