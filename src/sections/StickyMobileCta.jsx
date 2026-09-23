@@ -38,7 +38,7 @@ export default function StickyMobileCta({ show }) {
           transition: 'transform 160ms cubic-bezier(0.23,1,0.32,1)',
         }}
       >
-        JOIN ELITE &mdash; $2,000
+        JOIN ELITE &mdash; $2,497
       </a>
     </div>
   );
