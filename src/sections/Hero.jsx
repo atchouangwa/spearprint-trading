@@ -70,7 +70,7 @@ export default function Hero() {
             <span style={{ color: '#3E3F3E' }}>/</span>
             <span>3 MONTHS</span>
             <span style={{ color: '#3E3F3E' }}>/</span>
-            <span style={{ color: '#C6A15B' }}>$2,000</span>
+            <span style={{ color: '#C6A15B' }}>$2,497</span>
           </Reveal>
 
           <Reveal style={{ display: 'flex', alignItems: 'center', gap: 24, marginTop: 32, flexWrap: 'wrap' }}>
