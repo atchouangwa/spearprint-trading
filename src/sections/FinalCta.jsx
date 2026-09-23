@@ -44,7 +44,7 @@ export default function FinalCta() {
             <span style={{ color: '#3E3F3E' }}>/</span>
             <span>PRIVATE 1-ON-1</span>
             <span style={{ color: '#3E3F3E' }}>/</span>
-            <span>$2,000</span>
+            <span>$2,497</span>
           </div>
         </Reveal>
       </div>
