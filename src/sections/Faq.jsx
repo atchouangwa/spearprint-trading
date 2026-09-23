@@ -7,7 +7,7 @@ const FAQ_DATA = [
   ['Do I need trading experience?', "No. Whether you're new to trading or already experienced, the mentorship is customized to your current skill level and long-term goals."],
   ['Will I receive trading signals?', 'No. The focus is on teaching you how to think, manage risk, and execute independently so you can develop lasting trading skills rather than relying on signals.'],
   ['How long does the mentorship last?', 'Your mentorship includes a structured coaching experience with personalized guidance, action plans, and ongoing accountability designed to accelerate your trading progress.'],
-  ['How much does Elite cost?', '$2,000 for the full three-month private mentorship.'],
+  ['How much does Elite cost?', '$2,497 for the full three-month private mentorship.'],
   ['Is this a trading course?', 'No. There is no fixed curriculum to work through. Every session is built around your trades, your risk process and your current weaknesses.'],
   ['Will this guarantee that I become profitable?', 'No. No mentorship can guarantee results. Elite is focused on improving your process, execution and risk discipline. Trading carries substantial risk of loss.'],
 ];
